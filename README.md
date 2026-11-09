@@ -2,7 +2,7 @@
 
 **Learn. Think. Create. Grow.** A learning app where cartoon versions of history's greatest teachers (Einstein, Curie, Turing, da Vinci and more) teach AI through short interactive stories, out loud, and patiently answer your questions.
 
-**▶ Live app:** https://krinavaghela.github.io/champ/ · **Clickable prototype:** https://krinavaghela.github.io/champ/prototype/
+**▶ Live app:** https://krinavaghela.github.io/champ/ · **Code:** https://github.com/krinavaghela/champ
 
 <p>
   <img src="design/screens/06-home.png" width="200" alt="Home">
