@@ -335,7 +335,6 @@ function Explore({ state, setProfile, onLesson, onAsk, onSeen, notify, t }) {
               <small>AI course</small>
               <h3>{COURSE.title}</h3>
               <p>{COURSE.tagline}</p>
-              <small className="course-hero__src">Based on {COURSE.sources?.join(" & ")}</small>
             </div>
           </section>
           {UNITS.map((u) => {

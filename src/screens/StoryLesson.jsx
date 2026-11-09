@@ -118,7 +118,6 @@ export default function StoryLesson({ lesson, next, profile, partsDone, total, o
                 <div className="si__meta">
                   <span>👩‍🏫 With {t.name}</span>
                   <span>⏱ {lesson.mins} min</span>
-                  <span>📚 {lesson.source}</span>
                 </div>
                 <div className="si__tale">
                   <Tale parts={partsDone} total={total} size={56} />

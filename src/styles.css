@@ -563,7 +563,6 @@ h1, h2, h3, p { margin: 0; }
 .course-hero small { font-weight: 900; color: #c2410c; font-size: 12px; text-transform: uppercase; letter-spacing: 0.5px; }
 .course-hero h3 { font-size: 21px; font-weight: 900; line-height: 1.1; margin: 2px 0 4px; }
 .course-hero p { font-weight: 700; font-size: 13.5px; color: #6b5a4c; }
-.course-hero__src { display: block; margin-top: 6px; text-transform: none !important; letter-spacing: 0 !important; color: var(--muted) !important; font-weight: 800 !important; }
 .unit__blurb { color: var(--muted); font-weight: 700; font-size: 13px; margin: -6px 0 10px; }
 .node__go { margin-left: auto; font-weight: 900; font-size: 13px; color: var(--accent); padding: 6px 10px; border-radius: 10px; background: var(--accent-soft); flex: none; }
 .soon { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
